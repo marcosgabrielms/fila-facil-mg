@@ -52,4 +52,4 @@ Para executar ou ver os testes, abra `tests/index.html`.
 
 ## Evidências
 
-Preencher com a URL da Issue.
+
