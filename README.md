@@ -44,11 +44,11 @@ Para executar ou ver os testes, abra `tests/index.html`.
 
 ## Aplicação
 
-Preencher com a URL do GitHub Pages.
+<https://marcosgabrielms.github.io/fila-facil-mg/>
 
 ## Testes públicos
 
-Preencher com a URL pública de `tests/index.html`.
+<https://marcosgabrielms.github.io/fila-facil-mg/tests/index.html>
 
 ## Evidências
 
